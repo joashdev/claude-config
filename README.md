@@ -2,9 +2,13 @@
 Custom configuration files for Claude Code harness, including statusline customization and settings overrides.
 
 ## Contents
+
+### Custom Status Line
+<img width="1914" height="126" alt="image" src="https://github.com/user-attachments/assets/3d0e5d5f-caf0-49e8-94ab-08218540b262" />
+
 - `statusline.sh` — Custom status line display script for Claude Code terminal output
 - `settings.json` — Claude Code harness settings and hooks configuration
-                                                                                                                                                                                                                                                                                                         
+
 ## Installation
 
 1. **Copy files to your Claude Code config directory:**
